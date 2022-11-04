@@ -1,3 +1,5 @@
+@LoginTest
+
 Feature: Login with exiting User
 
   Scenario: Login into the web app with exiting User
