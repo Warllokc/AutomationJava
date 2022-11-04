@@ -35,4 +35,4 @@ To trigger a specific test run clear target folder by running:
 
 Then run the test:
 
-```mvn test -Dcucumber.filter.tags='@Demo'```
+```mvn clean test -Dcucumber.filter.tags='@Demo'```
