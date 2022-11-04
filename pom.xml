@@ -41,6 +41,14 @@
             <version>2.0.3</version>
             <type>pom</type>
         </dependency>
+
+        <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>cucumber-junit</artifactId>
+            <version>7.9.0</version>
+            <scope>test</scope>
+        </dependency>
+
     </dependencies>
 
 </project>
